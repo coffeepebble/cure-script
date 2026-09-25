@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-**[Read from 1st lesson
-](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)** &nbsp;&nbsp;&nbsp;&nbsp; **[Download for Offline Reading
-](https://github.com/coffeepebble/cure-script/releases/latest)**
-=======
 **[Read from 1st lesson Online
 ](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)** &nbsp;&nbsp;&nbsp;&nbsp; [Download for Offline reading
 ](https://github.com/Kellenok/cure-script/releases/latest)
->>>>>>> 16f17c4 (update(README): add initial hints)
 
 # Intro
 
